@@ -9,5 +9,5 @@ command line “notes” application contains next functions
 # 3. List all existing note    
     node app.js list
 
-#4. Read an existing note    
+# 4. Read an existing note    
     node app.js read --title="Your Note Title"
